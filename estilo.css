@@ -1,0 +1,48 @@
+<!--
+html, body { 
+	width:100%; height:100%;
+	margin:0px; padding:0px; 
+	background:#000000 url('loading.gif') center center no-repeat;
+	overflow:hidden;
+}
+#copy1 {
+	position:absolute;
+	z-index:1;
+	top:0px;
+	right:55px;
+	padding:2px;
+	border-left:1px solid #cacaca;
+	border-right:1px solid #cacaca;
+	border-bottom:1px solid #cacaca;
+	background: #ffffff;
+}
+
+#copy1 a:hover {
+ 	padding:3px;
+}
+
+#copy2 {
+	position:absolute;
+	z-index:1;
+	top:0px;
+	right:5px;
+	padding:2px;
+	border-left:1px solid #cacaca;
+	border-right:1px solid #cacaca;
+	border-bottom:1px solid #cacaca;
+	background: #ffffff;
+}
+
+#copy2 a:hover {
+ 	padding:3px;
+}
+
+#conteudo {
+	position:absolute;
+	z-index:0;
+	top:0px;
+	left:0px;
+	width:100%:;
+	height:100%;
+}
+-->
